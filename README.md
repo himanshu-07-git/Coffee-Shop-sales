@@ -64,7 +64,7 @@ This project demonstrates how Excel can be used as a powerful tool for data anal
 ---
 
 ## 🙌 Author
-Your Name
+Your Name Himanshu Srivastava
 
 ---
 
